@@ -6,6 +6,12 @@ git status
 ```
 git add .
 ```
+
+# Add remote origin (only once)
+```
+git remote add origin https://github.com/abhishek0112cs221008/KiddyKart.git
+```
+
 ```
 git commit -m "msg"
 ```
